@@ -1,6 +1,6 @@
 # The code of *Crystalline-heat-transport*
 
-1. **PDF**: All data figures in this work were plotted using **OriginLab** software (Version 2024b; **OriginLab** Corporation, Northampton, MA, USA). Non-linear curve fitting for the thermal conductivity and specific heat analyses was performed using the *built-in fitting module* of **OriginLab**, with Equations (1) and (2) in the main text as the fitting functions.
+1. **PDF (pair distribution function)**:: All data figures in this work were plotted using **OriginLab** software (Version 2024b; **OriginLab** Corporation, Northampton, MA, USA). Non-linear curve fitting for the thermal conductivity and specific heat analyses was performed using the *built-in fitting module* of **OriginLab**, with Equations (1) and (2) in the main text as the fitting functions.
 
    Crystal structure visualizations were generated using the open-source **VESTA** software (version 3.4.4).[^1]
 
